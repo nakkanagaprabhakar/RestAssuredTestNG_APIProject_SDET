@@ -1,0 +1,10 @@
+api\endpoints\UserEndPoints_CRUD2_FromProperties.class
+api\utilities\ExtentReports_ITestListener.class
+api\test\UserTests.class
+api\endpoints\UserEndPoints_CRUD.class
+api\test\UserTests2_FromProperties.class
+api\test\DataDrivenTests.class
+api\utilities\DataProviders.class
+api\utilities\ExcelUtility.class
+api\payload\User_POJO.class
+api\endpoints\Routes.class

@@ -6,6 +6,12 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
+      <class name="api.test.UserTests">
+        <methods>
+          <include name="Setup_FakerData"/>
+          <include name="GetUserTest_ByName"/>
+        </methods>
+      </class> <!-- api.test.UserTests -->
       <class name="api.test.UserTests2_FromProperties">
         <methods>
           <include name="DeleteUserTest_ByName"/>

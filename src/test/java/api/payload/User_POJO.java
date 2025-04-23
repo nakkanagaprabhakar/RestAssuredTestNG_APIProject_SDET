@@ -1,5 +1,7 @@
 package api.payload;
 
+// this class contains setters and getters mainly, that is the meaning of POJO classes.
+
 public class User_POJO {
 	
 	int id;
